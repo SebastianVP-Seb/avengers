@@ -1,5 +1,6 @@
 # Miembros
 
+* Nuevo miembro agregado
 * Black Widow
 * Black panther
 * Capitán America
