@@ -1,5 +1,6 @@
 # Miembros
 
+* Dos miembros agregados
 * Nuevo miembro agregado
 * Black Widow
 * Black panther
