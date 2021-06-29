@@ -21,4 +21,5 @@
 * Antman
 * Broly
 * Vegeta
+* CR7
 
